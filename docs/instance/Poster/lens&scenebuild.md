@@ -1,7 +1,6 @@
 ---
 title: 镜头与布景
 author: Mon1k4
-sidebarDepth: 2
 ---
 
 ![](https://pic.downk.cc/item/5ec13353c2a9a83be5649065.png)

@@ -1,7 +1,6 @@
 ---
 title: 打光
 author: Mon1k4
-sidebarDepth: 2
 ---
 
 :::theorem 名人名言

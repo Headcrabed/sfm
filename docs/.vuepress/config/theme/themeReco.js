@@ -6,6 +6,7 @@ module.exports = {
   searchMaxSuggestions: 10,
   // 自动形成侧边导航
   sidebar: 'auto',
+  sidebarDepth: 2,
   // 最后更新时间
   lastUpdated: '最后更新', // string | boolean
   // 作者
@@ -18,9 +19,9 @@ module.exports = {
   //algolia: {
   //  apiKey: '97357e58cac743c6de62036cb152f18b',
   //   indexName: 'vuepress-theme-reco'
-    // inputSelector: '### REPLACE ME ####',
-    // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
-    // debug: false // Set debug to true if you want to inspect the dropdown
+  // inputSelector: '### REPLACE ME ####',
+  // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
+  // debug: false // Set debug to true if you want to inspect the dropdown
   // },
   // valine 设置
   valineConfig: {
