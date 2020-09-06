@@ -1,6 +1,6 @@
 ---
 title: 更新手册
-date: 2020.05.19
+date: 2020-05-19
 sidebar: auto
 sidebarDepth: 2
 keys:
