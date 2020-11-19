@@ -15,7 +15,13 @@ title: 汉化补丁BUG
 - 窗口布局全部消失（灰屏）
 
 你可以通过复制汉化补丁文件夹里的 layoutTest.ini 或下载我的 窗口布局 复制到 Source Filmmaker 的主目录，重启 Source Filmmaker 后，应该就正常了。
-你也可以通过更方便的方法修复它 Ctrl + F1 （所以我就写了那么多废话↑）
+你也可以通过更方便的方法修复它，快捷键： Ctrl + F1 
+
+如果快捷键无法正常使用，请通过 Layouts 中的 Reset 进行重置
+
+![](https://pic.downk.cc/item/5fb67a5fb18d627113b63592.jpg)
+
+
 
 - Workshop 订阅无法使用
 
