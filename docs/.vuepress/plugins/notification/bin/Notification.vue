@@ -11,13 +11,17 @@
       <div class="notification-content">
         <h5>欢迎加入Source Filmmaker交流QQ群
            <br />
-           新文档：“海报” 已经加入实例子栏目
+           <br />
+           域名已经更新为 sfm.ldo.one
+           <br />
+           旧域名会自动转跳
+           <br />
         </h5>
         <img :src="require('./rvcode_qq.png')" alt="">
       </div>
       <div style="padding: 0 16px">
         <hr>
-        <a class="btn-donate" href="/other/donate.html">打赏</a>
+        <a class="btn-donate" href="/other/donate.html">投喂</a>
       </div>
     </div>
   </transition>
