@@ -25,3 +25,7 @@ Steam社区目前已经被墙，请通过网易UU进行免费加速
 ## 4. 哪里获得模型？
 
 [请查看这里](/guide/getting-model.html)
+
+## 4. 屏幕在闪烁？
+
+[请查看这里](/guide/flash-screen.md)
